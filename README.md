@@ -1,5 +1,7 @@
-# docker-sl
-docker SL (Steam Locomotive)
+# Docker-sl
+Docker SL (Steam Locomotive) :whale: :steam_locomotive: :thought_balloon: :thought_balloon:
+
+:steam_locomotive: :steam_locomotive: :steam_locomotive: :steam_locomotive: :steam_locomotive: :steam_locomotive: :steam_locomotive: :steam_locomotive: :steam_locomotive: :steam_locomotive: :steam_locomotive: :steam_locomotive::steam_locomotive::steam_locomotive::steam_locomotive::steam_locomotive::steam_locomotive::steam_locomotive::steam_locomotive::steam_locomotive::steam_locomotive::steam_locomotive::steam_locomotive::steam_locomotive::steam_locomotive::steam_locomotive::steam_locomotive::steam_locomotive::steam_locomotive::steam_locomotive::steam_locomotive::steam_locomotive:
 
 ```
                           (  ) (@@) ( )  (@)  ()    @@    O     @     O     @      O
@@ -22,13 +24,13 @@ docker SL (Steam Locomotive)
 
 :steam_locomotive: :steam_locomotive: :steam_locomotive: :steam_locomotive: :steam_locomotive: :steam_locomotive: :steam_locomotive: :steam_locomotive: :steam_locomotive: :steam_locomotive: :steam_locomotive: :steam_locomotive::steam_locomotive::steam_locomotive::steam_locomotive::steam_locomotive::steam_locomotive::steam_locomotive::steam_locomotive::steam_locomotive::steam_locomotive::steam_locomotive::steam_locomotive::steam_locomotive::steam_locomotive::steam_locomotive::steam_locomotive::steam_locomotive::steam_locomotive::steam_locomotive::steam_locomotive::steam_locomotive:
 
-## How to Use
-- Build
+## How to Use :whale:
+- Build :fork_and_knife:
  ```
   $ docker build -t sl
  ```
 
-- Run
+- Run :running:
  ```
   $ docker run -it sl
 
@@ -37,3 +39,5 @@ docker SL (Steam Locomotive)
   $ docker run -it sl -a
   $ docker run -it sl -F
  ```
+
+:steam_locomotive:
