@@ -1,7 +1,5 @@
 # Docker-sl
-Docker SL (Steam Locomotive) :whale: :steam_locomotive: :thought_balloon: :thought_balloon:
-
-:steam_locomotive: :steam_locomotive: :steam_locomotive: :steam_locomotive: :steam_locomotive: :steam_locomotive: :steam_locomotive: :steam_locomotive: :steam_locomotive: :steam_locomotive: :steam_locomotive: :steam_locomotive::steam_locomotive::steam_locomotive::steam_locomotive::steam_locomotive::steam_locomotive::steam_locomotive::steam_locomotive::steam_locomotive::steam_locomotive::steam_locomotive::steam_locomotive::steam_locomotive::steam_locomotive::steam_locomotive::steam_locomotive::steam_locomotive::steam_locomotive::steam_locomotive::steam_locomotive::steam_locomotive:
+Docker SL (Steam Locomotive)
 
 ```
                           (  ) (@@) ( )  (@)  ()    @@    O     @     O     @      O
@@ -22,22 +20,15 @@ Docker SL (Steam Locomotive) :whale: :steam_locomotive: :thought_balloon: :thoug
      \_/      \__/  \__/  \__/  \__/      \_/               \_/   \_/    \_/   \_/
 ```
 
-:steam_locomotive: :steam_locomotive: :steam_locomotive: :steam_locomotive: :steam_locomotive: :steam_locomotive: :steam_locomotive: :steam_locomotive: :steam_locomotive: :steam_locomotive: :steam_locomotive: :steam_locomotive::steam_locomotive::steam_locomotive::steam_locomotive::steam_locomotive::steam_locomotive::steam_locomotive::steam_locomotive::steam_locomotive::steam_locomotive::steam_locomotive::steam_locomotive::steam_locomotive::steam_locomotive::steam_locomotive::steam_locomotive::steam_locomotive::steam_locomotive::steam_locomotive::steam_locomotive::steam_locomotive:
+## How to Use
+- Run
+  ```
+    $ docker run -it m120/sl
+  ```  
 
-## How to Use :whale:
-- Build :fork_and_knife:
- ```
-  $ docker build -t sl
- ```
-
-- Run :running:
- ```
-  $ docker run -it sl
-
-  # options
-  $ docker run -it sl -l
-  $ docker run -it sl -a
-  $ docker run -it sl -F
- ```
-
-:steam_locomotive:
+- Options
+  ```
+    $ docker run -it m120/sl -l
+    $ docker run -it m120/sl -a
+    $ docker run -it m120/sl -F
+  ```
